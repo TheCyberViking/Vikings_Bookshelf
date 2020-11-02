@@ -27,7 +27,7 @@ My Bookshelf of recommended reading and playing to learn and improve your Intell
 
 - Extreme Privacy [Amazon](https://www.amazon.co.uk/Extreme-Privacy-What-Takes-Disappear/dp/B0898YGR58/ref=sr_1_11?dchild=1&keywords=OSINT&qid=1604276526&sr=8-11)
 
-- Hunting Cyber Criminals [Amazon] (https://www.amazon.co.uk/OSINT-Toolkit-Intelligence-Gathering-Investigations/dp/1119540925/ref=sr_1_12?dchild=1&keywords=OSINT&qid=1604276526&sr=8-12)
+- Hunting Cyber Criminals [Amazon](https://www.amazon.co.uk/OSINT-Toolkit-Intelligence-Gathering-Investigations/dp/1119540925/ref=sr_1_12?dchild=1&keywords=OSINT&qid=1604276526&sr=8-12)
 
 - 51 Weird Private Investigator Tricks That Actually Work [Amazon](https://www.amazon.co.uk/Weird-Private-Investigator-Tricks-Actually-ebook/dp/B07RV4HXB9/ref=sr_1_21?dchild=1&keywords=OSINT&qid=1604276526&sr=8-21)
 
