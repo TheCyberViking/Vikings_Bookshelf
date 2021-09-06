@@ -39,6 +39,37 @@ My Bookshelf of recommended reading and playing to learn and improve your Intell
 
 - Psychology of Intelligence Analysis [Amazon](https://amzn.to/2WWsJgJ)
 
+- Operators Handbook [Amazon](https://amzn.to/3BJT1Bv)
+
+- Open Source Intelligence Methods and Tools [Amazon](https://amzn.to/3tfIF9E)
+
+- Automating Open Source Intelligence [Amazon](https://amzn.to/3zJomDQ)
+
+- Hunting Cyber Criminals [Amazon](https://amzn.to/3tg9Scl)
+
+- Cyber Threat Intelligence [Amazon](https://amzn.to/3tq984s)
+
+- Mining Social Media [Amazon](https://amzn.to/3n2yKDj)
+
+- The CIA World Factbook [Amazon](https://amzn.to/3n0MwGu)
+
+- Investigations and the Art of the Interview [Amazon](https://amzn.to/3BKmQSG)
+
+- NOWHERE TO HIDE [Amazon](https://amzn.to/3zQFYh7)
+
+- Digital Witness [Amazon](https://amzn.to/3BOJs4v)
+
+- LEARN to Build a Threat Intelligence Program in 1 Day [Amazon](https://amzn.to/3BITCn5)
+
+- Open-Source Intelligence: ATP 2-22.9 [Amazon](https://amzn.to/3yPKcEt)
+
+- Joint Publication JP 2-03 Geospatial Intelligence in Joint Operations [Amazon](https://amzn.to/2WW71cs)
+
+- Counterterrorism and Open Source Intelligence [Amazon](https://amzn.to/3BLOmiE)
+
+- Facebook Search: Posts, Photos & Videos [Amazon](https://amzn.to/3nbFkHL)
+
+- Structured Analytic Techniques for Intelligence Analysis [Amazon](https://amzn.to/3zP8jVc)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Games
